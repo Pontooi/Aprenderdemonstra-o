@@ -1,0 +1,6 @@
+{
+  "name": "¡Ven a Aprender Español! - Escola de Espanhol Juiz de Fora",
+  "description": "Curso presencial de espanhol em Juiz de Fora - MG com o Prof. Leonardo Borges. Metodologia comunicativa e imersão cultural na Sala 1002.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
